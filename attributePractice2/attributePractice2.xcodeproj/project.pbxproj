@@ -15,6 +15,7 @@
 		FB1BA62B231A140900C41EE1 /* attributePractice2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1BA62A231A140900C41EE1 /* attributePractice2Tests.swift */; };
 		FB1BA636231A140900C41EE1 /* attributePractice2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1BA635231A140900C41EE1 /* attributePractice2UITests.swift */; };
 		FB1BA644231A143400C41EE1 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1BA643231A143400C41EE1 /* GradientView.swift */; };
+		FB1BA646231A190900C41EE1 /* subViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1BA645231A190900C41EE1 /* subViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FB1BA635231A140900C41EE1 /* attributePractice2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attributePractice2UITests.swift; sourceTree = "<group>"; };
 		FB1BA637231A140900C41EE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB1BA643231A143400C41EE1 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		FB1BA645231A190900C41EE1 /* subViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FB1BA617231A140800C41EE1 /* ViewController.swift */,
 				FB1BA643231A143400C41EE1 /* GradientView.swift */,
 				FB1BA619231A140800C41EE1 /* Main.storyboard */,
+				FB1BA645231A190900C41EE1 /* subViewController.swift */,
 				FB1BA61C231A140900C41EE1 /* Assets.xcassets */,
 				FB1BA61E231A140900C41EE1 /* LaunchScreen.storyboard */,
 				FB1BA621231A140900C41EE1 /* Info.plist */,
@@ -262,6 +265,7 @@
 				FB1BA618231A140800C41EE1 /* ViewController.swift in Sources */,
 				FB1BA616231A140800C41EE1 /* AppDelegate.swift in Sources */,
 				FB1BA644231A143400C41EE1 /* GradientView.swift in Sources */,
+				FB1BA646231A190900C41EE1 /* subViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
